@@ -27,9 +27,19 @@ namespace RussianRoulette
             revolver = initRevolver(chooseBarrelSize());
 
             Console.WriteLine($"{revolver.numberOfRealBullets} balles réelles\n"
-            + $"{revolver.numberOfBlanksBullets} balles à blanc");
+            + $"{revolver.numberOfBlanksBullets} balles à blanc\n");
 
             bool didThePlayerWin = GameSequence(PlayerChoice());
+            if(didThePlayerWin)
+            {
+                Console.WriteLine("Vous avez gagné !");
+            } else
+            {
+                Console.WriteLine("Vous avez perdu...");
+            }
+
+            Console.WriteLine("\nVeuillez appuyez sur une touche pour quitter le jeu").
+            Console.ReadLine();
 
 
         }
