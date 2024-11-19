@@ -1,0 +1,5 @@
+C:\Users\ethan\Documents\mns\m2i\clean_code\RussianRoulette\RussianRoulette\obj\Release\net8.0\RussianRoulette.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ethan\Documents\mns\m2i\clean_code\RussianRoulette\RussianRoulette\obj\Release\net8.0\RussianRoulette.AssemblyInfoInputs.cache
+C:\Users\ethan\Documents\mns\m2i\clean_code\RussianRoulette\RussianRoulette\obj\Release\net8.0\RussianRoulette.AssemblyInfo.cs
+C:\Users\ethan\Documents\mns\m2i\clean_code\RussianRoulette\RussianRoulette\obj\Release\net8.0\RussianRoulette.csproj.CoreCompileInputs.cache
+C:\Users\ethan\Documents\mns\m2i\clean_code\RussianRoulette\RussianRoulette\obj\Release\net8.0\RussianRoulette.sourcelink.json
