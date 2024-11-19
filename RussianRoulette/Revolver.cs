@@ -8,9 +8,9 @@ namespace RussianRoulette
 {
     public class Revolver
     {
-        int barrelSize { get; set; } = 6;
-        int numberOfBlanksBullets { get; set; } = 5;
-        int numberOfRealBullets { get; set; } = 1;
+        public int barrelSize { get; set; } = 6;
+        public int numberOfBlanksBullets { get; set; } = 5;
+        public int numberOfRealBullets { get; set; } = 1;
         List<bool> barrelOrder { get; } = new List<bool>();
         Random random = new Random();
 
@@ -20,7 +20,6 @@ namespace RussianRoulette
            numberOfRealBullets = random.Next(1, barrelSize);
            numberOfBlanksBullets = barrelSize - numberOfRealBullets;
            barrelOrder = generateBarrelOrder(barrelSize, numberOfRealBullets, numberOfBlanksBullets);
-           
         }
 
         public List<bool> generateBarrelOrder(int barrelSize, int numberOfBlanks, int numberOfReal)
@@ -41,7 +40,7 @@ namespace RussianRoulette
         {
             List<bool> newBarrelOrder = new List<bool>();
 
-            while (barrelOrder.Count > 0) { }
+            while (barrelOrder.Count > 0) 
             {
                 int IndexOfBulletToTake = random.Next(0, barrelOrder.Count - 1);
                 newBarrelOrder.Add(barrelOrder[IndexOfBulletToTake]);
@@ -56,7 +55,7 @@ namespace RussianRoulette
             bool isBulletReal = barrelOrder.TakeLast(1).FirstOrDefault();
             barrelOrder.RemoveAt(barrelOrder.Count-1);
 
-
+            return isBulletReal;
         }
 
     }

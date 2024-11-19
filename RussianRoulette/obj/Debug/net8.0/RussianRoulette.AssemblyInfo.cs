@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RussianRoulette")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3fffa10f688e81e653338ddf83fb761374ddbb1d")]
 [assembly: System.Reflection.AssemblyProductAttribute("RussianRoulette")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RussianRoulette")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

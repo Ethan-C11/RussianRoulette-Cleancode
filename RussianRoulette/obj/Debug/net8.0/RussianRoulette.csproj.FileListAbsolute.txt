@@ -1,0 +1,15 @@
+C:\Users\ethan\Documents\mns\m2i\clean_code\RussianRoulette\RussianRoulette\bin\Debug\net8.0\RussianRoulette.exe
+C:\Users\ethan\Documents\mns\m2i\clean_code\RussianRoulette\RussianRoulette\bin\Debug\net8.0\RussianRoulette.deps.json
+C:\Users\ethan\Documents\mns\m2i\clean_code\RussianRoulette\RussianRoulette\bin\Debug\net8.0\RussianRoulette.runtimeconfig.json
+C:\Users\ethan\Documents\mns\m2i\clean_code\RussianRoulette\RussianRoulette\bin\Debug\net8.0\RussianRoulette.dll
+C:\Users\ethan\Documents\mns\m2i\clean_code\RussianRoulette\RussianRoulette\bin\Debug\net8.0\RussianRoulette.pdb
+C:\Users\ethan\Documents\mns\m2i\clean_code\RussianRoulette\RussianRoulette\obj\Debug\net8.0\RussianRoulette.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ethan\Documents\mns\m2i\clean_code\RussianRoulette\RussianRoulette\obj\Debug\net8.0\RussianRoulette.AssemblyInfoInputs.cache
+C:\Users\ethan\Documents\mns\m2i\clean_code\RussianRoulette\RussianRoulette\obj\Debug\net8.0\RussianRoulette.AssemblyInfo.cs
+C:\Users\ethan\Documents\mns\m2i\clean_code\RussianRoulette\RussianRoulette\obj\Debug\net8.0\RussianRoulette.csproj.CoreCompileInputs.cache
+C:\Users\ethan\Documents\mns\m2i\clean_code\RussianRoulette\RussianRoulette\obj\Debug\net8.0\RussianRoulette.sourcelink.json
+C:\Users\ethan\Documents\mns\m2i\clean_code\RussianRoulette\RussianRoulette\obj\Debug\net8.0\RussianRoulette.dll
+C:\Users\ethan\Documents\mns\m2i\clean_code\RussianRoulette\RussianRoulette\obj\Debug\net8.0\refint\RussianRoulette.dll
+C:\Users\ethan\Documents\mns\m2i\clean_code\RussianRoulette\RussianRoulette\obj\Debug\net8.0\RussianRoulette.pdb
+C:\Users\ethan\Documents\mns\m2i\clean_code\RussianRoulette\RussianRoulette\obj\Debug\net8.0\RussianRoulette.genruntimeconfig.cache
+C:\Users\ethan\Documents\mns\m2i\clean_code\RussianRoulette\RussianRoulette\obj\Debug\net8.0\ref\RussianRoulette.dll
