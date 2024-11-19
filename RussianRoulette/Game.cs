@@ -38,7 +38,7 @@ namespace RussianRoulette
                 Console.WriteLine("Vous avez perdu...");
             }
 
-            Console.WriteLine("\nVeuillez appuyez sur une touche pour quitter le jeu").
+            Console.WriteLine("\nVeuillez appuyez sur une touche pour quitter le jeu");
             Console.ReadLine();
 
 
